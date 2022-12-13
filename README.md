@@ -18,4 +18,4 @@ Student Management Systems provide features like student Name, student Roll Numb
 
 In this Student Management System project, user can create , display, search, modify and delete student record.
 
-All imformation given by user stored into a recort.txt file.
+All imformation given by user stored into a record.txt file.
